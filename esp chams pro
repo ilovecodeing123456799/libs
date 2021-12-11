@@ -2,7 +2,7 @@ local dwEntities = game:GetService("Players")
 local dwLocalPlayer = dwEntities.LocalPlayer 
 local dwRunService = game:GetService("RunService")
 
-local settings_tbl = {
+local Esp = {
     ESP_Enabled = true,
     ESP_TeamCheck = false,
     Chams = false,
